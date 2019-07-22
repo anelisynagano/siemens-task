@@ -3,8 +3,19 @@ body {
 }
 
 #root {
-  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.home {
+  display: flex;
+}
+
+.tabs {
+  padding: 10px;
+}
+
+.weather {
+  padding: 10px;
 }
